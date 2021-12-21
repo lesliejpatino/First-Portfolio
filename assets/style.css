@@ -8,8 +8,13 @@ header {
     width: 100%;
     height: 70px;
     text-align: center;
-    color: rgba(255, 217, 0, 0.986);
+    color:black;
     font-size: 30px;
+}
+/* green i love rgb(140, 235, 140); */
+header h1{
+    background-color: rgb(140, 235, 140);
+    margin: 0 auto;
 }
 
 nav{
@@ -21,42 +26,121 @@ nav{
     color: rgba(255, 217, 0, 0.986);
 }
 
+nav ul {
+    padding-inline-start: 0px;
+    background-color: rgb(140, 235, 140);
+    margin-top: 0;
+    margin-bottom: 5%;
+}
+
 nav ul li {
     list-style-type: none;
     display: inline-block;
-    color: rgba(255, 217, 0, 0.986);
+    color: black;
+    margin-bottom: 1%;
+/*yellow I like color: rgba(255, 217, 0, 0.986); */
 }
+
+a {
+    background-color: rgb(140, 235, 140);
+    margin-bottom: 4%;
+}
+/* Prevents links from changing colors */
+a, a:hover, a:visited, a:active {
+    color: inherit;
+    text-decoration: underline;
+}
+
+/*
+#break {
+    border-top: solid 3px rgb(140, 235, 140);
+    margin-top: 0;
+    margin-bottom: 4%;
+    display: block;
+}
+*/
+
+
 
 #headshot {
     display: flex;
+    flex-direction: column;
+    flex-flow: row wrap;
     object-fit: scale-down;
-    margin-left: 3%;
-    width: 250px;
-    height: 300px;
-    border-radius: 10%;
+    flex: 20%;
+    float: left;
+    height: 250px;
+    border: solid 5px black;
+    padding: 10px;
+    margin-right: 2%;
+}
+
+.work h2{
+    text-align: center;
+}
+
+/*
+.flex-container {
+    display: flex;
+    flex-direction: row;/
+    justify-content: flex-start;
+    align-items: strech;
 }
 
 h2 {
     color: rgb(140, 235, 140);
 }
 
-a, a:hover, a:visited, a:active {
-    color: inherit;
-    text-decoration: underline;
+#about-box {
+    display: flex;
+    flex-wrap: nowrap;
+    float: right;
+    width: 70%;
+    height: 300px;
+    border: solid 5px black;
+    padding: 10px;
+    font-size: 18px;
 }
 
+
+*/
 #reach {
-    display:inline-flexbox
+    display:inline-flexbox;
     float: left;
-    background-color: red;
+    background-color: rgb(140, 235, 140);
     width: 40%;
-    height: 100px;
+    height: 80px;
+    padding-left: 2.5%;
+    padding-top: .5%;
+    padding-bottom: .5%;
+    margin-bottom: 0px;
+}
+
+#contact {
+    background-color:rgb(140, 235, 140);
+}
+
+.contact {
+    background-color: rgb(140, 235, 140);
 }
 
 #reach-links {
     float: right;
-    background-color: red;
-    width: 50%;
-    height: 60px;
+    text-align: right;
+    background-color: rgb(140, 235, 140);
+    width: 55%;
+    height: 80px;
+    padding-right: 2.5%;
+    padding-top: .5%;
+    padding-bottom: .5%;
+}
 
+.info-links {
+    padding: 10px;
+    background-color: rgb(140, 235, 140);
+}
+
+div ul li {
+    list-style-type: none;
+    display: inline-block;
 }
