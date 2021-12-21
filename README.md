@@ -10,11 +10,11 @@ The clients wants their site refactored to simplify the HTML code and to include
 
 * [HTML] 
 * [CSS]
-* [W3 Schools] https://www.w3schools.com/html/html5_semantic_elements.asp
+* [MDN Web Docus] https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap
 
 ## Deployed Link
 
-* [HW1-Refactoring] (https://lesliejpatino.github.io/hw1-refactoring/)
+* [First-Portfolio] (https://lesliejpatino.github.io/hw1-refactoring/)
 
 ## Authors
 * **Leslie Patino**

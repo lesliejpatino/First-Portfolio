@@ -13,7 +13,7 @@ header {
 }
 /* green i love rgb(140, 235, 140); */
 header h1{
-    background-color: rgb(140, 235, 140);
+    background-color: rgb(168, 248, 168);
     margin: 0 auto;
 }
 
@@ -28,7 +28,7 @@ nav{
 
 nav ul {
     padding-inline-start: 0px;
-    background-color: rgb(140, 235, 140);
+    background-color: rgb(168, 248, 168);
     margin-top: 0;
     margin-bottom: 5%;
 }
@@ -42,7 +42,7 @@ nav ul li {
 }
 
 a {
-    background-color: rgb(140, 235, 140);
+    background-color: rgb(168, 248, 168);
     margin-bottom: 4%;
 }
 /* Prevents links from changing colors */
@@ -80,17 +80,21 @@ a, a:hover, a:visited, a:active {
     margin-bottom: 2%;
 }
 
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
 .box{
     position: relative;
     display: inline-block;
-    background-color: rgba(255, 217, 0, 0.986);
+    background-color: white;
     padding: 10px;
-    width: 25%;
+    width: 27%;
     height: 300px;
     margin: 2%;
-    border-style: solid 2px ;
-    border-color: white;
-    text-align: left;
+    border-style: dotted; 
+    border-color: rgb(168, 248, 168);
+    text-align: center;
     justify-content: center;
 }
 
@@ -98,7 +102,11 @@ a, a:hover, a:visited, a:active {
     width: 100%;
     height: 60%;
     object-fit: scale-down;
-    background-color: rgba(255, 217, 0, 0.986);
+}
+
+.content {
+    display:inline-flex;
+    flex-wrap: wrap;
 }
 
 
@@ -130,7 +138,7 @@ h2 {
 #reach {
     display:inline-flexbox;
     float: left;
-    background-color: rgb(140, 235, 140);
+    background-color: rgb(168, 248, 168);
     width: 40%;
     height: 80px;
     padding-left: 2.5%;
@@ -140,17 +148,17 @@ h2 {
 }
 
 #contact {
-    background-color:rgb(140, 235, 140);
+    background-color:rgb(168, 248, 168);
 }
 
 .contact {
-    background-color: rgb(140, 235, 140);
+    background-color: rgb(168, 248, 168);
 }
 
 #reach-links {
     float: right;
     text-align: right;
-    background-color: rgb(140, 235, 140);
+    background-color: rgb(168, 248, 168);
     width: 55%;
     height: 80px;
     padding-right: 2.5%;
@@ -160,7 +168,7 @@ h2 {
 
 .info-links {
     padding: 10px;
-    background-color: rgb(140, 235, 140);
+    background-color: rgb(168, 248, 168);
 }
 
 div ul li {
