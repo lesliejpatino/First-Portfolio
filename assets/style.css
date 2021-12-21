@@ -1,0 +1,62 @@
+* {
+    font-family: 'DM Serif Display', serif;
+    background-color: white;
+}
+
+header {
+    display: block;
+    width: 100%;
+    height: 70px;
+    text-align: center;
+    color: rgba(255, 217, 0, 0.986);
+    font-size: 30px;
+}
+
+nav{
+    display: block;
+    width: 100%;
+    height: 30px;
+    margin-right: 50px;
+    text-align: center;
+    color: rgba(255, 217, 0, 0.986);
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    color: rgba(255, 217, 0, 0.986);
+}
+
+#headshot {
+    display: flex;
+    object-fit: scale-down;
+    margin-left: 3%;
+    width: 250px;
+    height: 300px;
+    border-radius: 10%;
+}
+
+h2 {
+    color: rgb(140, 235, 140);
+}
+
+a, a:hover, a:visited, a:active {
+    color: inherit;
+    text-decoration: underline;
+}
+
+#reach {
+    display:inline-flexbox
+    float: left;
+    background-color: red;
+    width: 40%;
+    height: 100px;
+}
+
+#reach-links {
+    float: right;
+    background-color: red;
+    width: 50%;
+    height: 60px;
+
+}
