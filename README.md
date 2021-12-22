@@ -1,7 +1,7 @@
 # Homework 2 - My First Portfolio
 
 SUMMARY: 
-The clients wants their site refactored to simplify the HTML code and to include accessibility features such as alt attributes for images.
+This webpage was created to showcase my current skills and knowledge of HTML and CSS, as well as a portfolio of my deployed work. 
 
 ![FEATURES EXAMPLE](./assets/images/deployed-site)
 ![FEATURES GIF EXAMPLE](./assets/images/increased-font)
@@ -14,7 +14,7 @@ The clients wants their site refactored to simplify the HTML code and to include
 
 ## Deployed Link
 
-* [First-Portfolio] (https://lesliejpatino.github.io/hw1-refactoring/)
+* [First-Portfolio] (https://lesliejpatino.github.io/First-Portfolio/)
 
 ## Authors
 * **Leslie Patino**
