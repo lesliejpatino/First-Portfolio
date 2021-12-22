@@ -3,16 +3,13 @@
     background-color: white;
 }
 
-header {
+header h1{
     display: block;
     width: 100%;
     height: 70px;
     text-align: center;
     color:black;
-    font-size: 30px;
-}
-/* green i love rgb(140, 235, 140); */
-header h1{
+    font-size: 60px;
     background-color: rgb(168, 248, 168);
     margin: 0 auto;
 }
@@ -73,21 +70,10 @@ main {
     display: flex;
     flex-wrap: wrap;
 }
-/*
-.first-project {
-    position: absolute;
-    display: block;
-    background-color: white;
-    padding: 10px;
-    width: 90%;
-    height: 300px;
-    margin: 2%;
-    border-style: dotted; 
-    border-color: rgb(168, 248, 168);
-    text-align: center;
-    justify-content: center;
+
+.html {
+    margin: 0.3%;
 }
-*/
 
 .top-box{
     position: relative;
