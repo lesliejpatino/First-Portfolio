@@ -154,6 +154,10 @@ main {
     background-color: rgb(168, 248, 168);
 }
 
+h3 {
+    font-size: 25px;
+}
+
 #reach-links {
     float: right;
     text-align: right;
