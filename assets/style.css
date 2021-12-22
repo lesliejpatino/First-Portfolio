@@ -60,10 +60,13 @@ a, a:hover, a:visited, a:active {
     padding: 10px;
     margin-right: 2%;
 }
+#leslie {
+    text-align: left;
+}
 
-.work h2{
+h2{
     text-align: center;
-    margin-bottom: 2%;
+    margin: 0 auto;
 }
 
 main {
@@ -72,7 +75,8 @@ main {
 }
 
 .html {
-    margin: 0.3%;
+    margin: 0%;
+    font size: 
 }
 
 .top-box{
@@ -81,7 +85,7 @@ main {
     background-color: white;
     padding: 10px;
     width: 54%;
-    height: 300px;
+    height: 270px;
     margin: 2%;
     border-style: dotted; 
     border-color: rgb(168, 248, 168);
@@ -91,7 +95,7 @@ main {
 
 .top-box img {
     width: 100%;
-    height: 60%;
+    height: 70%;
     object-fit: scale-down;
 }
 .box{
@@ -100,7 +104,7 @@ main {
     background-color: white;
     padding: 10px;
     width: 27%;
-    height: 300px;
+    height: 270px;
     margin: 2%;
     border-style: dotted; 
     border-color: rgb(168, 248, 168);
