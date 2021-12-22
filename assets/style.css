@@ -35,7 +35,6 @@ nav ul li {
     display: inline-block;
     color: black;
     margin-bottom: 1%;
-/*yellow I like color: rgba(255, 217, 0, 0.986); */
 }
 
 a {
@@ -84,7 +83,7 @@ main {
     display: inline-block;
     background-color: white;
     padding: 10px;
-    width: 54%;
+    width: 60%;
     height: 270px;
     margin: 2%;
     border-style: dotted; 
@@ -122,16 +121,6 @@ main {
     display:inline-flex;
     flex-wrap: wrap;
 }
-
-
-/*
-.flex-container {
-    display: flex;
-    flex-direction: row;/
-    justify-content: flex-start;
-    align-items: strech;
-}
-*/
 
 #reach {
     display:inline-flexbox;

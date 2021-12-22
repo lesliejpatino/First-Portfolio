@@ -1,15 +1,15 @@
-# Homework 2 - My First Portfolio
+# My First Portfolio
 
 SUMMARY: 
 This webpage was created to showcase my current skills and knowledge of HTML and CSS, as well as a portfolio of my deployed work. 
 
-![FEATURES EXAMPLE](./assets/images/deployed-site)
-![FEATURES GIF EXAMPLE](./assets/images/increased-font)
+![FEATURES EXAMPLE](.assets/images/deployed-site)
+![GIF EXAMPLE OF NAV BUTTONS](https://media.giphy.com/media/HZDAASk321GrShSiDX/giphy.gif)
 
 ## Built With
 
-* [HTML] 
-* [CSS]
+* [HTML] (/first-portfolio/index.html)
+* [CSS] (.assets/style.css)
 * [MDN Web Docus] https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap
 
 ## Deployed Link
