@@ -3,7 +3,6 @@
 SUMMARY: 
 This webpage was created to showcase my current skills and knowledge of HTML and CSS, as well as a portfolio of my deployed work. 
 
-![FEATURES EXAMPLE](.assets/images/deployed-site)
 ![GIF EXAMPLE OF NAV BUTTONS](https://media.giphy.com/media/HZDAASk321GrShSiDX/giphy.gif)
 
 ## Built With
